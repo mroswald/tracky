@@ -2,10 +2,11 @@
 
 tracky Projekterfassung dient der einfachen und schnellen Erfassung von Arbeitszeiten in privaten Projekten.
 
-<img src="assets/screenshot1.jpeg" style="width: 30%; float: left" />
-<img src="assets/screenshot2.jpeg" style="width: 30%; float: left" />
-<img src="assets/screenshot3.jpeg" style="width: 30%; float: left" />
-<div style="clear: both"></div>
+<p align="middle">
+<img src="assets/screenshot1.jpeg" style="width: 30%" />
+<img src="assets/screenshot2.jpeg" style="width: 30%" />
+<img src="assets/screenshot3.jpeg" style="width: 30%" />
+</p>
 
 ## Wie funktioniert's?
 
